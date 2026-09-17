@@ -2,3 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 40px;
 }
+
+.intro {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.intro h2 {
+    margin-top: 0;
+}
